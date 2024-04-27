@@ -18,7 +18,7 @@
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Segue todos os prompts utilizados:
 
-<a href="https://github.com/felipeAguiarCode/prompts-recipe-to-create-a-ebook/blob/main/output/ebook%20-%20css%20jedi%20output.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
+<a href="https://github.com/willdkdevj/ebook-designer-pattern-1/blob/main/output/E-book%20-%20O%20Despertar%20do%20C%C3%B3digo%20-%20Mestres%20dos%20Patterns.pdf" title="View PDF now"> 📕Clique aqui para ler</a>
 
 ## 💻 Tecnologias utilizadas no projeto
 
@@ -36,10 +36,10 @@ ChatGPT：
 |  título  | Crie um titulo de e-book sobre Designer Pattern com Java, o e-book é sobre o nicho de programação e o subnicho é Java, o titulo deve ser épico e curto, e tenha uma temátia mais da cultura geek                                                        |
 | conteúdo | Desenvolva um texto para ebook, com o foco em Designer Patterns, listando os principais partterns utilizados em arquitetura de software com exemplos de códigos em java
 
-{REGRAS}
-> Explique de modo que desenvolvedores juniors entendam
-> Deixe o texto enxuto
-> Utilize sempre o mesmo contexto para os exemplos
+[REGRAS]
+* Explique de modo que desenvolvedores juniors entendam
+* Deixe o texto enxuto
+* Utilize sempre o mesmo contexto para os exemplos
  |
 
 
@@ -47,7 +47,7 @@ Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | a raccoon raccoon with a red jedi lightsaber meditating in space, pixel art style      |
+| Título | a raccoon raccoon with a red jedi lightsaber meditating in space, pixel art style      |
 
 ## ✨ Features
 
